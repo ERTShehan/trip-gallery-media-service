@@ -20,7 +20,6 @@ import java.util.UUID;
 
 @RestController
 @RequestMapping("/media")
-@CrossOrigin(origins = "*")
 @Slf4j
 public class MediaController {
 
